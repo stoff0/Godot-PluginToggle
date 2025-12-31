@@ -1,7 +1,7 @@
 @tool
 extends EditorPlugin
 
-# List all the Plugin folders that should be enabled/disabled here:
+# Replace "PluginToggle" with all plugin folders you want to be controlled:
 var plugins :PackedStringArray = ["PluginToggle"]
 
 var toggle_button :Button
