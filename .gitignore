@@ -7,7 +7,6 @@ project.godot
 export.cfg
 export_credentials.cfg
 *.translation
-*.import
 *.tmp
 
 # Mono-specific ignores
